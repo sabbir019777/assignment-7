@@ -110,7 +110,7 @@ const TaskStatus = ({ selectedTicket, onComplete, resolvedTicket }) => {
   )}
    </div>
 
-      {/* --- Resolved Task --- */}
+     
    <div className="space-y-4">
    <h3 className="text-xl font-bold text-gray-800">Resolved Task</h3>
      {resolvedTicket ? (

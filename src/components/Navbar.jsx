@@ -52,7 +52,7 @@ const Navbar = () => {
    </li>
     </ul>
 
-            {/* New Ticket Button */}
+   
    <div className="flex justify-center md:justify-start">
     <button className="bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white font-medium py-2.5 px-5 rounded-md text-base flex items-center shadow-md hover:opacity-95 transition duration-200">
     <FaPlus className="mr-2 text-sm" /> New Ticket

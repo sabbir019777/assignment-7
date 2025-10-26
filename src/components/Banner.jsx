@@ -25,7 +25,7 @@ const Banner = ({ inProgressCount = 0, resolvedCount = 0 }) => {
         </div>
       </div>
 
-      {/* Resolved Card */}
+     
    <div className="w-full md:w-[48%] lg:w-[650px] h-[250px] sm:h-[320px] md:h-[380px] rounded-lg shadow-2xl relative overflow-hidden flex items-center justify-center p-4">
    <div className="absolute inset-0 bg-gradient-to-br from-[#54CF68] to-[#00827A] bg-opacity-90 z-0"></div>
 
